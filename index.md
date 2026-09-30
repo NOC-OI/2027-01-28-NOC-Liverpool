@@ -225,7 +225,7 @@ address.
           This workshop is open to all staff and students from the National Oceanography Centre. Limited numbers are available for other organisations who collaborate with the National Oceanography Centre.
             {% comment %}
             AUDIENCE
-
+This workshop is open to all staff and students from the National Oceanography Centre. Limited numbers are available for other organisations who collaborate with the National Oceanography Centre.
             Explain who your audience is.  (In particular, tell readers if the
             workshop is only open to people from a particular institution.
             {% endcomment %}
@@ -288,8 +288,7 @@ address.
             {% endcomment %}
             <p id="requirements">
             {% if online == "false" %}
-                Participants must bring a laptop with a
-                Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+                Participants must bring a laptop which can connect to the Eduroam or NOCstaff wifi.
             {% else %}
                 Participants must have access to a computer with a
                 Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
@@ -413,6 +412,7 @@ Edit the text to match who can attend the workshop. For instance:
 - If you are interested in attending this workshop, contact me@example.com
   for more information
   {% endcomment %}
+  
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
     This workshop is open to all staff and students from the National Oceanography Centre. Limited numbers are available for other organisations who collaborate with the National Oceanography Centre.
