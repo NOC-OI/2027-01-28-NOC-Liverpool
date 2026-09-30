@@ -520,7 +520,7 @@ rows to the table if you wish to break down the schedule
 further. To use this custom schedule here, replace the block
 of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
-{% endcomment %}
+
 
 <div class="card mb-2">
   <h5 class="card-header">Schedule</h5>
@@ -532,7 +532,7 @@ of code below the Schedule `<h2>` header below with
     This workshop is teaching a lesson in <a href="https://carpentries-incubator.org/">The Carpentries Incubator</a>.
     Please check <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for a list of lesson sections and estimated timings.
     {% endif %}
-
+{% endcomment %}
     {% comment %}
     Edit/replace the text above if you want to include a schedule table.
     See the contents of the _includes/custom-schedule.html file for an example of how one of these schedule tables is constructed.
