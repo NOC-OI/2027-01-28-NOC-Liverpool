@@ -222,6 +222,7 @@ address.
     <div class="row">
         <dt class="col-sm-2 col-md-2 py-2 px-3 bg-body-light text-body-secondary fw-bold">Who</dt>
         <dd class="col py-2 px-3 mx-0 mb-0">
+          This workshop is open to all staff and students from the National Oceanography Centre. Limited numbers are available for other organisations who collaborate with the National Oceanography Centre.
             {% comment %}
             AUDIENCE
 
