@@ -196,10 +196,6 @@ This is a pilot workshop, testing out a lesson that is still under development. 
   The course notes can be found on <a href="{{site.incubator_lesson_site}}">the lesson homepage</a>.
 </p>
 
-<p id="who-can-attend">
-    <strong>Who can attend?:</strong>
-    This workshop is open to all staff and students from the National Oceanography Centre. Limited numbers are available for other organisations who collaborate with the National Oceanography Centre.
-</p>
 
 {% comment %}
 LOCATION
@@ -415,12 +411,12 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-
+  {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to all staff and students from the National Oceanography Centre. Limited numbers are available for other organisations who collaborate with the National Oceanography Centre.
 </p>
-{% endcomment %}
+
 
 
 {% comment %}
