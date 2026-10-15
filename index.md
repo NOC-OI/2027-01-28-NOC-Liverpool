@@ -17,7 +17,7 @@ email: ["OI@noc.ac.uk","jonathan.coney@noc.ac.uk"]    # boxed, comma-separated l
 # Optional variables
 collaborative_notes:  # URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 2001071535831          # alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
-what3words: "stupid.dangerous.website"          # what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
+#what3words: "stupid.dangerous.website"          # what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 # DON'T CHANGE THIS
 layout: workshop
 ---
